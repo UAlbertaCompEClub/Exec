@@ -2,34 +2,48 @@ Exec Meeting Minutes - September 31st, 2013
 ===========================================
 
 Authors
-=======
+-------
 
 James Finlay - @jtfinlay
 
 Jake Charlebois
 
 Attendance
-==========
+----------
 
 James Finlay (President Fall)
+
 Brent Erickson (President Winter)
+
 Scott Hewson (VP External)
+
 Andrew Fontaine (VP Social Fall)
+
 AJ Sharpe (VP Social Winter)
+
 Mavis Chan (VP Finance)
+
 Michael Blouin (VP Internal)
+
 Stephen Just (Swag Buss, Coop Rep)
-Anders Muskens (Couch Bum F)
+
+Anders Muskens (Couch Bum Fall)
 Jake Charlebois (2nd Year Rep)
+
 Eric Anderson (4th Year Rep)
+
 Jacob Ortt (Geer Week Rep)
+
 Brittany Lamorie (Geer Week Rep)
+
 Stefan Martynkiw (Stock Rep)
+
 Sydney Bitner (Couch Bum)
+
 Denis Lachance
 
 Minutes
-=======
+-------
 
 1. VP Finance
 	1. $1000 in the account. -629.79 deficient spending for month
@@ -67,11 +81,11 @@ Minutes
 5. Geer Week
 	1. James to send Scott geer week rep info (Done)
 	2. Song list nearly done. Band assembled
-	3. Dance � need list of people willing to dance. Sydney will 
+	3. Dance - need list of people willing to dance. Sydney will 
 	   choreograph
 	4. Need meeting this week
 	5. Beer brewing stuff & toboggan in cage
-	6. Pranks week � don�t get arrested
+	6. Pranks week - don't get arrested
 6. Stock Reps
 	1. Stefan will contact Chris regarding Keurig coffee
 	2. Stock Run to happen Thursday
