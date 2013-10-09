@@ -1,16 +1,16 @@
-Computer Engineering Club Report – October Meeting
+Computer Engineering Club Report ï¿½ October Meeting
 ==================================================
 
 1. Since last BoD Meeting:
-	a. Microsoft Coding Competition – 70ish people
-	b. Meet a Computer Engineer – 20ish people
-	c. VP Internal – Michael Blouin
+	a. Microsoft Coding Competition ï¿½ 70ish people
+	b. Meet a Computer Engineer ï¿½ 20ish people
+	c. VP Internal ï¿½ Michael Blouin
 	d. AGM -> Junior Exec Elections, all positions filled
 2. Upcoming
 	a. Bonspiel
 		i. Sign-up to start soon
 		ii. Ice booked for January 25th 
-	b. “Pretty sure it’s beef” BBQ
+	b. ï¿½Pretty sure itï¿½s beefï¿½ BBQ
 		i. Planning for Oct 21st 
 	c. Laser Tag
 		i. Nov 8th
