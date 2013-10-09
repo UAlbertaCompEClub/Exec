@@ -9,7 +9,6 @@ Computer Engineering Club Report - October Meeting
 	
 	
 2. Upcoming
-
 	1. Bonspiel
 		1. Sign-up to start soon
 		2. Ice booked for January 25th 
