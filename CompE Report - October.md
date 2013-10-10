@@ -1,14 +1,13 @@
 Computer Engineering Club Report - October Meeting
 ==================================================
 
-1. Since last BoD Meeting:
+1. Old Events
 	1. Microsoft Coding Competition - 70ish people
 	2. Meet a Computer Engineer - 20ish people
-	3. VP Internal - Michael Blouin
-	4. AGM -> Junior Exec Elections, all positions filled
+	3. AGM -> VP Internal - Michael Blouin 
 	
 	
-2. Upcoming
+2. New & Upcoming(ish)
 	1. Bonspiel
 		1. Sign-up to start soon
 		2. Ice booked for January 25th 
