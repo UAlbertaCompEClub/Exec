@@ -1,4 +1,4 @@
-Exec Meetig Minutes - September 13th, 2013
+Exec Meeting Minutes - September 13th, 2013
 ==========================================
 
 Authors
