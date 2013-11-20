@@ -25,7 +25,7 @@ Mavis Chan (VP Finance)
 
 Michael Blouin (VP Internal)
 
-Stephen Just (Swag Buss, Coop Rep)
+Stephen Just (Swag Boss, Coop Rep)
 
 Anders Muskens (Couch Bum Fall)
 Jake Charlebois (2nd Year Rep)
