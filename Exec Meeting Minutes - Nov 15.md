@@ -115,9 +115,3 @@ Minutes
 	1. Couch was cleaned - thanks, Stephen
 	2. Steve Drake Day 
 		- Need Brent to ensure it's awesome.
-10. Misc
-	
-	
-	
-	
-	
