@@ -2,20 +2,25 @@ Exec Meeting Minutes - September 13th, 2013
 ==========================================
 
 Authors
-=======
+-------
 James Finlay - @jtfinlay
 
 Attendance
-==========
+----------
 James Finlay (President Fall)
+
 Brent Erickson (President Winter)
+
 Scott Hewson (VP External)
+
 Andrew Fontaine (VP Social Fall)
+
 AJ Sharpe (VP Social Winter)
+
 Mavis Chan (VP Finance)
 
 Minutes
-=======
+-------
 
 1. Positions Overview
 	1. Junior Positions
