@@ -13,4 +13,4 @@ Faculty of Engineering Undergraduate Teaching Award
 Rutherford Award for Excellence in Undergraduate Teaching
 Provost's Award for Achievemtn of Excellence in Undergraduate Teaching
 William Hardy Alexander Award for Excellence in Undergraduate Teaching
-Teachin Unit Award
+Teaching Unit Award
