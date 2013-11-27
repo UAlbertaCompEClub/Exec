@@ -18,12 +18,19 @@ Awards
 ------
 
 - Graduate Student Award for Excellence in Undergraduate Teaching
+	- Each discipline nominates a total of 5 graduate students
 - Leonard E Gads Graduate Student Award for Excellence in Undergraduate Teaching
+	- Each department nominates 1 graduate student
 - Faculty of Engineering Undergraduate Teaching Award
+	- Each department nominates 1 professor
 - Rutherford Award for Excellence in Undergraduate Teaching
+	- Each department submits one nominee
 - Provost's Award for Achievement of Excellence in Undergraduate Teaching
+	- Each department submits one nominee
 - William Hardy Alexander Award for Excellence in Undergraduate Teaching
+	- Each department submits one nominee
 - Teaching Unit Award
+	- No limit to number of nominations
 
 Timeline
 --------
@@ -36,3 +43,4 @@ Timeline
 - Votes will involve ranking (1st, 2nd, 3rd, 4th choices)
 - Cannot be nominated more than 5 years in a row
 - Can only win University-wide award once
+- Cannot win same award twice in a row, but can win different
