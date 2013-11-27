@@ -13,7 +13,7 @@ Judges from:
 - Prof Reformat (?)
 
 Timeline:
-=========
+---------
 
 Saturday:
 - People arrive for noon
@@ -29,7 +29,7 @@ Sunday:
 
 
 Requirements:
-=============
+-------------
 - Max of three people
 - Code must be on github by deadline & public
 - Groups can send link of repo once up
@@ -41,12 +41,12 @@ Requirements:
 - Coding from 1pm on Saturday to 1pm on Sunday
 
 Volunteers Needed
-=================
+-----------------
 - Opening up Start Up
 - Answering Questions
 - Pancake breakfast
 - Driving swag over
 
 Theme Ideas
-===========
+-----------
 
