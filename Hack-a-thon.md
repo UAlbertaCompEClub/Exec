@@ -11,7 +11,8 @@ Judges from:
 - Github (potentially)
 - Intuit (?)
 - Prof Reformat (?)
-
+- Prof Hoover (?)
+- 
 Timeline:
 ---------
 
