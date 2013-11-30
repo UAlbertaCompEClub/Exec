@@ -12,7 +12,7 @@ Judges from:
 - Intuit (?)
 - Prof Reformat (?)
 - Prof Hoover (?)
-- 
+
 Timeline:
 ---------
 
