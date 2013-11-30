@@ -29,16 +29,16 @@ Sunday:
 - Should be done by 5pm
 
 
-Requirements:
--------------
+Group Requirements:
+-------------------
 - Max of three people
 - Code must be on github by deadline & public
-- Groups can send link of repo once up
+- Groups must send link of repo once up
 - Must be a new project
 - Open internet
 - Open-source Licensing
 - Project must be relevant to theme
-- At end of 24h, teams present their project
+- At end of 24h, teams present their project (3-5mins/group)
 - Coding from 1pm on Saturday to 1pm on Sunday
 
 Volunteers Needed
@@ -51,3 +51,6 @@ Volunteers Needed
 Theme Ideas
 -----------
 
+Prep Work
+---------
+- Write the GitHub repo grabber to subscribe to everyone's repos and generate pretty pictures during the competition
