@@ -4,25 +4,25 @@ Meeting Minutes - February 6
 Attendence
 ------
 
-Brittany 雾务 geer week rep
+Brittany - geer week rep
 
-Mike 雾务 VP internal
+Mike - VP internal
 
-Andrew 雾务 VP Social
+Andrew - VP Social
 
-AJ Sharpe 雾务 VP Social
+AJ Sharpe - VP Social
 
-James Finlay 雾务 ex President
+James Finlay - ex President
 
-Mavis 雾务 Financials
+Mavis - Financials
 
-Stephen- Stock rep/Computer rep
+Stephen - Stock rep/Computer rep
 
 Brent - President
 
-Scott 雾务 VP Internal
+Scott - VP Internal
 
-Stephen 雾务Couch Bum Swag Boss
+Stephen - Couch Bum Swag Boss
 
 Geer Week Review
 ---------------
@@ -52,7 +52,7 @@ Roughly $3000 in account
 VP Internal
 ----------
 
-Compedia 雾务 a nice looking wiki, half live blog half archive.
+Compedia - a nice looking wiki, half live blog half archive.
 
 Could be used as a blog for geer week, private CompE information for exec members
 
@@ -98,8 +98,8 @@ Judge criteria
 
 -Split up the jobs, one person for ambassador to Comp Sci, one person for food, et., etc.
 
- AGM and Elections
- ------------------
+AGM and Elections
+------------------
 
  -James needs a list of ccids a week before
 
@@ -107,7 +107,7 @@ Judge criteria
 
  -Any contest for senior positions must go through formal elections
 
- -AGM gives candidates to make their 伍雾vote for me伍雾 speeches
+ -AGM gives candidates to make their -vote for me- speeches
 
  -Elections are on the 3rd
 
@@ -121,8 +121,8 @@ Judge criteria
 
  -Brent is our CRO
 
- Grad Rep
- --------
+Grad Rep
+--------
 
   Banquet, catered by moose factory more information to follow after reading week
 
@@ -132,15 +132,15 @@ Judge criteria
 
   -Grad photos, $40 sitting, $20 to grad fundraising, $20 discount if you get the package
 
-  First Year Night and MACE
-  -------------------------
+First Year Night and MACE
+-------------------------
 
   -Need a tech display at First Year Night
 
   -MACE to be held sometime in late March
 
-  General Information
-  ---------------------
+General Information
+---------------------
 
   -Edmonton library hack-a-thon in two weeks
 
