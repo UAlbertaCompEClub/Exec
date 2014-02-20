@@ -16,7 +16,7 @@ James Finlay - ex President
 
 Mavis - Financials
 
-Stephen - Stock rep/Computer rep
+Stefan - Stock rep/Computer rep
 
 Brent - President
 
