@@ -2,30 +2,30 @@ Winter AGM Minutes -- Feb 27th, 2014
 ====================================
 
 # Elections
-##### 3rd Year 
-	Between Mason & Robin. Robin wins
+#### 3rd Year 
+Between Mason & Robin. Robin wins
 	
 #### 4th Year 
-	Between Stefan. Stefan wins
+Between Stefan. Stefan wins
 	
 #### 5th Year 
-	Between Jacob Viau and AJ Sharpe. Jacob wins
+Between Jacob Viau and AJ Sharpe. Jacob wins
 	
 #### Grad Rep 
-	Between Eric Anderson and Ranek Kiil. Ranek wins
+Between Eric Anderson and Ranek Kiil. Ranek wins
 	
 #### Coop 
-	Between Evan, AJ(F)/Eric(W). Abstentions win
+Between Evan, AJ(F)/Eric(W). Abstentions win
 	
 #### Clothing 
-	AJ runs. AJ wins
+AJ runs. AJ wins
 	
 #### Office Rep 
-	Mason runs. Mason wins
+Mason runs. Mason wins
 	
 #### Geer Week 
-	PR – Wait for Fall
-	Assistant – Wait for Fall
+PR – Wait for Fall
+Assistant – Wait for Fall
 
 # Constitution
 
@@ -68,13 +68,17 @@ Trial Run with single magazine
 
 ##### TODOs
 SGS Discount Card
+
 Clean cabinet
+
 Mailing list
+
 Clear outline Services and Events
+
 Permanent Hosting for Website
 
 # Geer Week
-	1st choice: Mulan (uLan)
-	2nd choice: Dora the Explorer (FeDora the Windows Explorer)
-	3rd choice: Office Space / IT Crowd (Office Crowd)
+1st choice: Mulan (uLan)
+2nd choice: Dora the Explorer (FeDora the Windows Explorer)
+3rd choice: Office Space / IT Crowd (Office Crowd)
 
