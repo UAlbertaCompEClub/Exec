@@ -25,7 +25,20 @@ Mason runs. Mason wins
 	
 #### Geer Week 
 PR – Wait for Fall
+
 Assistant – Wait for Fall
+
+#### Senior Election Results:
+
+President: James FInlay
+
+VP External: Mike Blouin
+
+VP Finance: Stephen Just
+
+VP Internal: Brittany Lamorie
+
+VP Social: Andrew Fontaine
 
 # Constitution
 
@@ -33,26 +46,30 @@ The following sections have been added to the constitution:
 
 ##### Removal of Members
 
-Due to the representative nature of the Computer Engineering club, official Computer Engineering students at the University of Alberta cannot be removed from the Computer Engineering club. All alumni of the Computer Engineering program at the University of Alberta are honorary life members of the CompE club.
+	Due to the representative nature of the Computer Engineering club, official Computer Engineering students at the University of Alberta cannot be removed from the Computer Engineering club. All alumni of the Computer Engineering program at the University of Alberta are honorary life members of the CompE club.
 
 #### Dissolution
 
-The dissolution of the CompE Club requires unanimous approval of the Senior Executive Committee and the Engineering Student Society Board of Directors. Upon dissolution, the Senior Executive Committee is responsible for ensuring that any remaining financial resources are distributed to other engineering-discipline-specific student groups.
+	The dissolution of the CompE Club requires unanimous approval of the Senior Executive Committee and the Engineering Student Society Board of Directors. Upon dissolution, the Senior Executive Committee is responsible for ensuring that any remaining financial resources are distributed to other engineering-discipline-specific student groups.
 
 #### Compliance 
 
-This student group operates at the University of Alberta and is subject to University of Alberta policies and procedures, along with all local, provincial, and federal laws and procedures.
+	This student group operates at the University of Alberta and is subject to University of Alberta policies and procedures, along with all local, provincial, and federal laws and procedures.
 
 #### VP Internal
-Records proceedings at all Senior Executive Meetings and ensures these records are properly distributed.
+	Records proceedings at all Senior Executive Meetings and ensures these records are properly distributed.
 
 
 # Events & Services
 
 
 ### Winter
-	Pancakes – Robin help AJ
+Pancakes – Robin help AJ
+
+Soldering Workshop - Looking to do another. Correspond with VP Social and VP External.
 	
+First Year Night - March 18th. Need volunteers to help out.
+
 ### Next Year
 #### ECE Week
 IEEE Networking Session does something of the same sort. Should combine with them?
